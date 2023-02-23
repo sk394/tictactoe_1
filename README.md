@@ -32,7 +32,7 @@ List has been created to store the buttons and button states. The callback funct
         return 0
     The Minimax algorithm is a recursive algorithm that works by examining all possible moves that a player can make and then choosing the move that maximizes the player's chances of winning, while minimizing the opponent's chances of winning.
 ```
-
+![minimax] (mini.png)
 
 ## Installation
 To run the game, you will need to have Python 3 installed on your machine, as well as the Tkinter library (which should be included with most Python installations). You can clone this repository to your local machine using the following command:
